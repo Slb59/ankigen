@@ -1,0 +1,18 @@
+# no environments files
+__pycache__
+.env
+.venv
+
+# no base file
+
+
+# no tests files
+
+
+# no utils files
+
+
+# no logs
+
+
+# no perso files
